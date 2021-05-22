@@ -19,7 +19,7 @@ function setup(){
   
 }
 function draw(){
-  background("skyblue")
+  background("blue")
   rectMode(CENTER)
   
   Engine.update(engine)
